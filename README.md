@@ -1,16 +1,14 @@
-### Hi there 👋
+## Postdoctoral Research Associate, University of Bristol 
 
-<!--
-**EricSaboya/EricSaboya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an atmospheric scientist with a background in pure mathematics and physics, Dr. Eric Saboya has diverse experience in developing methods for quantifying sources and sinks of greenhouse gases. He is currently a postdoctoral research associate at the University of Bristol working with Prof. Matt Rigby and Anita Ganesan. Eric completed his PhD in the Department of Physics, Imperial College London with Drs. Heather Graven and Tim Arnold. 
 
-Here are some ideas to get you started:
+### Research Interests
+  o Regional atmospheric modellings of greenhouse gases (CO2, CH4, N2O)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  o Application of Bayesian methods for source and sink attribution
+
+  o Carbon isotopes as atmospheric tracers
+
+
+![5x5](icl_ch4.png)
+_Atmospheric methane mole fraction measurements from Imperial College London_
