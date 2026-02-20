@@ -1,4 +1,4 @@
-## Postdoctoral Research Associate | University of Bristol
+## Postdoctoral Associate | Massachusetts Institute of Technology
 
 Hello!
 
