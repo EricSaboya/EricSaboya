@@ -1,28 +1,42 @@
 # Postdoctoral Associate | Massachusetts Institute of Technology
 <figure>
-    <img src="boston_skyline.jpg"
-         width="800" height="300"
+    <img src="boston_skyline.jpg" width="1000" height="400"
 </figure>
 
+Greetings from Earth's mighty troposphere, 
 
-![14x14](boston_skyline.jpg)
+I'm Eric Saboya, your local atmospheric scientist based in the Department of Earth, Atmospheric and Planetary Sciences at MIT. 
 
-Hello from Earth's mighty troposphere, 
-
-I'm Eric Saboya 
-dv
-I’m Eric, and I’m currently a Postdoctoral Research Associate in the Atmospheric Chemistry Research Group at the University of Bristol working with Prof. Matt Rigby and Dr. Anita Ganesan. In my current role as an atmospheric scientist I develop methods for quantifying sources and sinks of greenhouse gases using Bayesian statistical approaches. I recently completed my PhD in the Department of Physics at Imperial College London where I was supervised by Drs. Heather Graven and Tim Arnold (NPL). 
-
-During my PhD I worked on developing regional measurement and modelling approaches for quantifying and attributing emissions of atmospheric methane. This included using the measurements shown in the figure below to evaluate the reported emissions for the London area.  
+In my current role, I develop methods for understanding the surface processes that lead to measurable changes in the atmospheric concentrations of various greenhouse gases. I do this through Bayesian inverse modelling a method that uses atmospheric trace gas concentrations to draw statistical inferences about emissions and removal processes occuring at the surface of our home, planet Earth. 
 
 
-### Current Research Interests
-- Regional atmospheric modelling of greenhouse gases (CO2, CH4, N2O)
+## Research Interests
+- Regional atmospheric inverse modelling method development
 
-- Application of Bayesian methods for source and sink attribution of greenhouse gases
+- Methods of using co-emitting species and isotopic tracers for GHG emissions source partitioning 
 
-- Using carbon isotopes as tracers of CO2 and CH4 emissions
+- Emissions estimates of N2O and HFC-23
 
 
-![5x5](icl_ch4.png)
-_Atmospheric methane mole fraction measurements from Imperial College London_
+***
+## Positions Held
+#### Massachusetts Institute of Technology, Cambridge, MA, US | _Department of Earth, Atmospheric and Planetary Sciences_
+Postdoctoral associate                   2026-
+
+#### University of Bristol, Bristol, UK | _Department of Chemistry_
+Hononary research associate              2025-
+
+Research associate                       2022-2025
+
+
+## Education
+#### **Imperial College London,** London, UK | _Department of Physics_
+
+PhD, Atmospheric Physics                 2022
+
+
+MSc, Physics                             2018
+
+#### **University of Surrey,** Guildford, Surrey | _Department of Mathematics_
+
+BSc (Hons), Mathematics and Physics      2017
