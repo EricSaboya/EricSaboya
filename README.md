@@ -1,10 +1,16 @@
 # Postdoctoral Associate | Massachusetts Institute of Technology
+<figure>
+    <img src="boston_skyline.jpg"
+         width="800" height="300"
+</figure>
 
 
+![14x14](boston_skyline.jpg)
 
+Hello from Earth's mighty troposphere, 
 
-Hello!
-
+I'm Eric Saboya 
+dv
 I’m Eric, and I’m currently a Postdoctoral Research Associate in the Atmospheric Chemistry Research Group at the University of Bristol working with Prof. Matt Rigby and Dr. Anita Ganesan. In my current role as an atmospheric scientist I develop methods for quantifying sources and sinks of greenhouse gases using Bayesian statistical approaches. I recently completed my PhD in the Department of Physics at Imperial College London where I was supervised by Drs. Heather Graven and Tim Arnold (NPL). 
 
 During my PhD I worked on developing regional measurement and modelling approaches for quantifying and attributing emissions of atmospheric methane. This included using the measurements shown in the figure below to evaluate the reported emissions for the London area.  
