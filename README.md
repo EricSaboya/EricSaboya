@@ -1,6 +1,6 @@
 # Postdoctoral Associate | Massachusetts Institute of Technology
 <figure>
-    <img src="boston_skyline.jpg" width="1000" height="400"
+    <img src="boston_skyline.png" width="950" height="400"
 </figure>
 
 Greetings from Earth's mighty troposphere, 
